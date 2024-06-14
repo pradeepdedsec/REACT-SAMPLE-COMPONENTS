@@ -1,0 +1,41 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30pt;
+}
+
+.buttons{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+button{
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 25pt;
+    margin:8px;
+    border-radius:8px;
+    color:white;
+}
+
+.outer{
+    border: 3px solid black;
+    height:150px;
+    width: 500px;
+    border-radius: 8px;
+}
+
+.start{
+    background-color: green;
+}
+
+.stop{
+    background-color: red;
+}
+
+.reset{
+    background-color: blue;
+}

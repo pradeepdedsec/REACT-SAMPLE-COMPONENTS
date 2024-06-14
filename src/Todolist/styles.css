@@ -1,0 +1,124 @@
+/*li{
+    list-style-type: none;
+}
+
+.color-box{
+    height:300px;
+    width:250px;
+    border-radius: 10%;
+    display:flex;
+    border:3px solid black ;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}*/
+
+.one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(208, 139, 21);
+}
+
+ul{
+    display: flexbox;
+}
+
+h1{
+
+    position: relative;
+    left:20%;
+    font-size: 60px;
+
+}
+
+.two{
+    display: flex;
+    border-radius: 8px;
+
+}
+
+.two input{
+    margin-left: 23%;
+    height: 43px;
+    width:600px;
+    border-radius: 8px;
+}
+#Add{
+    background-color: rgb(85, 162, 74);
+    width: 100px;
+    height:40px;
+    padding: 3px;
+    border-radius: 50%;
+    font-size: 50px;
+    margin-left: 1px;
+    color: aliceblue;
+    margin-top:3px;
+    margin-left:5px;
+}
+
+.add-symbol{
+    position:relative;
+    left:15%;
+    bottom:22%;
+}
+
+
+ul{
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    flex-direction: row;
+    text-justify: auto;
+    background-color: aliceblue;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left:0.1%;
+    margin-bottom: 5%;
+    padding:20px;
+    width:340px;
+}
+ul{
+    position: absolute;
+    left:0.1%;
+}
+li button{
+    position:relative;
+    font-size: 25px;
+    right: 0.001em;
+    height: 30px;
+    float:right;
+    top:25%
+}
+li .delete{
+    position:relative;
+    font-size: 25px;
+    right: 0.001em;
+    height: 35px;
+    width:30px;
+    float:right;
+    top:25%;
+    background-color: red;
+    border-radius:10%;
+}
+li .delete-btn{
+    position:relative;
+    left:18%;
+    top:11%;
+}
+
+h1{
+    color: aliceblue;
+}
+
+
+html{
+    background-color: rgb(17, 24, 15);
+}
+

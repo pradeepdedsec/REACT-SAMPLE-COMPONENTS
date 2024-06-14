@@ -1,0 +1,19 @@
+{
+    "bio_data":[
+        {
+            "name":"pradeep",
+            "course":"java",
+            "age":21
+        },
+        {
+            "name":"aswin kumar",
+            "course":"c#",
+            "age":22
+        },
+        {
+            "name":"aswin",
+            "course":"java",
+            "age":21
+        }
+    ]
+}
